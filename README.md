@@ -1,11 +1,5 @@
 # Netodonalds
 
-## Funcionalidades
-
-- O site mostra os valores dos pratos e também calcula automaticamente a soma dos valores dos recheios adicionados.
-- A compra é feita através do CPF.
-- mostra o historico.
-
 ## Design do projeto
 
 (print.png)
