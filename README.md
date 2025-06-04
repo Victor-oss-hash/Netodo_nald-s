@@ -2,8 +2,6 @@
 
 ## Design do projeto
 
-(print.png)
-
 ## Observações
 ℹ️ **Informação:** Projeto feito na disciplina de programação webi I do curso ADS do ifce de jaguaruana
 
